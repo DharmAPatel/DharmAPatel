@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, C++, C#, Python & Programming with Raspberry Pi.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on zoom
-- 📫 How to reach me instagram (@dharm_ll)
+- 📫 How to reach me instagram (@dharm_kll)
 
 <!---
 DharmAPatel/DharmAPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
